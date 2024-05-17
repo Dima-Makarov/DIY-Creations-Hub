@@ -64,6 +64,43 @@ I could ofc add a flash drive position recording module, but at the time, did no
 ### Results
 The project was successfull, I tested it on a real DJI Phantom 3 SE, and it worked with no issues farther than one kilometer in distance.
 
+## RubiksCubeClock
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/bcbe2bbf-bb0d-41ba-8fd2-001e43b930dc)
+This device slightly differs from other in the fact that it does not use 3d printing at all. The entire model is made out of wood. Also contains AA battery pack, oled, and arduino with a program to process the buttons which are located below left and right hand. The project is successfull and the device is in use today.
+
 ## TheTragicRadioAirplaneStory
 
 So I am also into model and radiocontrolled planes. Here's a bunch of photos of them.
+
+It all started from one rubber motor plane, which was modified by me by adding two brushed electric motors, battery and receiver:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/775812bf-6ac4-440e-8aa0-1947266f6733)
+
+But, two small quadcopter motors weren't enough to even keep a stable altitude, not even attempting to takeoff. Soo, if you have not enough motors, just add more!
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/ade809a1-f925-4c4d-b02b-73bc67b06723)
+(Apologies for the image quality, lost a better photo). And it flew!
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/69ba6783-77c7-4150-b064-ded2f73c6884)
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/d9c4ce85-bf40-4d78-b963-dda88a2d3751)
+But still wasn't good enough. The big drag combined with overall small motor power did not allow to do anything cooler than just flying around in circles with it (trying not to stall and hit ground).
+So in the end I converted it to a glider and successfuly glided onto a neighbours roof, snapping wings in half:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/43e9758e-2265-4c3f-a50a-a03bfb79bb5a)
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/e54acf11-7430-48e1-b898-7618e876d22c)
+Next I decided to move towards so-called Foxy, which is foam mass-produced airplane. To start things up, I installed old hardware on it: same motors, same battery. It flew better than the old 4-engine version!
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/93ac0644-1779-4b10-9378-6ecce37f3dac)
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/609ccff7-82d7-45fb-a32a-bb9261a49691)
+But, still was underpowered, and although had 2 engines, was not cool enough. It was time for a big change. I bought a new tiny brushless 6 Amp motor, borrowed an overpowered 30 Amp electronic speed controller, a good 3s battery, 2 servos and installed all of that on a plane:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/b4700021-f7c0-40e5-9d37-a036da0a295a)
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/f18eb91a-5a5e-46a2-ad68-f81f1e2cae15)
+Went outside on a frosen lake. It was cold. I started the engine. It flew. It flew high, perhaps 20 meters above the ground. Aaand merely seconds after that, I lost any understanding of what as going on with a plane, specifically, it's orientation, and it rapidly descended and crashed onto a bush:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/a303fcf2-f1cc-438f-87f5-293be87ff4ff)
+This event did not upset me. I knew I was going to the right direction. Next step was to buy an armful of foam planes:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/3329383e-2e15-4897-98a1-a213c808bfa6)
+And I started moving all the hardware to a new frame:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/b082865d-a3e4-4253-a0f9-a940bacb0127)
+I flew once, and it was great! But I had a feeling that it was too heavy, and wing area wasn't big enough. So, if you have not enough wings, just add more!
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/5a0fca0a-13f7-4842-9232-ad3d71cb1356)
+It flew brilliantly. Good control, perfect stability, slow speed. It was a really good plane to practice flying:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/821a0509-c652-4efb-a0f2-64f0f04a638c)
+
+But later, I decided to remove second wing, just so it could fly faster and do different aerobatic maneuvers. Also tried to install an fpv camera:
+![image](https://github.com/Dima-Makarov/DIY-Creations-Hub/assets/79033065/9cb44391-c818-4aa7-ac11-f7efe58e3a45)
+But didn't quite like it, and now I am flying without it.
